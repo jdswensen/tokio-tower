@@ -39,3 +39,6 @@ async-bincode = "0.6"
 slab = "0.4"
 tokio-test = "0.4"
 tower-test = "0.4"
+bytes = "1.2.1"
+futures = "0.3.25"
+tokio-util = { version = "0.7.4", features = [ "full" ] }
